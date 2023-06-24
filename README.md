@@ -20,5 +20,6 @@
 | CTE | Implement the operations on the newly generated column |
 | DELETE | Delete the column |
 | DROP | Delete the column | <br><br><br><br>
+
 https://github.com/iamistiyak/SQL_DATA_CLEANING/assets/86108816/2d676869-1f56-4993-b556-1159cc820125
 
